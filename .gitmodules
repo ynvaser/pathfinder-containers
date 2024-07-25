@@ -1,6 +1,7 @@
 [submodule "pathfinder"]
 	path = pathfinder
 	url = https://github.com/goryn-clade/pathfinder
+	branch = dev-2.2.4.1
 [submodule "websocket"]
 	path = websocket
 	url = https://github.com/goryn-clade/pathfinder_websocket
